@@ -1,0 +1,13 @@
+{
+ "generated": "2026-11-06T10:09:09.076Z",
+ "total": 115,
+ "verified": 115,
+ "requires_review": [],
+ "problems": [
+  {
+   "id": "q-2-201",
+   "level": "warn",
+   "msg": "supporting hadith muslim:2690 wording not found"
+  }
+ ]
+}

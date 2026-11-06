@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "sad", "emoji": "😔", "label": "I am feeling sad", "title": "When you feel sad",
+    "intro": ["Sadness is not a sign of weak faith. The Prophet ﷺ wept at the death of his son and said that the eye weeps and the heart grieves.", "You do not need to read everything here. Pick one verse or one supplication and stay with it."],
+    "verses": ["v-94-5", "v-12-86", "v-2-216"], "quran_duas": ["q-21-87", "q-2-286"], "prophetic_duas": ["h-hamm", "h-karb"], "guidance": ["g-eyes-weep", "g-expiation", "g-believer-affair", "g-cure"],
+    "care_note": "If sadness stays for weeks, or makes it hard to eat, sleep, work or look after yourself, please talk to a doctor or a qualified counsellor. Seeking help is encouraged in the Sunnah and is not a lack of trust in Allah.",
+    "keywords": ["udaas", "udas", "dukhi", "dil udaas", "sad", "gham", "rona", "ro raha", "depressed", "low", "mayoosi"]
+  },
+  {
+    "slug": "anxious", "emoji": "😰", "label": "I am anxious", "title": "When you feel anxious",
+    "intro": ["Worry can make the hours feel long, especially at night. These are words that people have turned to when their minds are racing.", "They are offered as comfort and remembrance. They are not a promise that worry will lift at once, and they sit alongside any care you may need."],
+    "verses": ["v-13-28", "v-94-5", "v-65-3", "v-9-129"], "quran_duas": ["q-21-87", "q-3-173", "q-2-286"], "prophetic_duas": ["h-hamm", "h-karb", "h-aslamtu"], "guidance": ["g-expiation", "g-cure"],
+    "care_note": "If worry is constant, or comes with panic, a racing heart or trouble sleeping, please consider speaking to a doctor or a counsellor. Many scholars and many believers have found this helpful alongside prayer.",
+    "keywords": ["pareshan", "pareshani", "main bohat pareshan hoon", "tension", "anxiety", "anxious", "ghabrahat", "bechain", "bechaini", "fikr", "worry", "stress", "panic"]
+  },
+  {
+    "slug": "angry", "emoji": "😡", "label": "I am angry", "title": "When you feel angry",
+    "intro": ["Anger is a human feeling. The guidance of the Prophet ﷺ is about what we do in the moment it rises.", "Below are the words he taught, and the principles he gave."],
+    "verses": ["v-3-134"], "quran_duas": ["q-59-10"], "prophetic_duas": ["h-anger"], "guidance": ["g-strong-man", "g-do-not-anger"],
+    "extra": {
+      "title": "Other Sunnah steps for anger",
+      "text": "Other steps often mentioned for anger, such as sitting down, lying down, making wudu, or staying silent, are narrated in collections outside the two Sahih books. They are in the review queue and are not shown here until their gradings have been checked."
+    },
+    "care_note": "If anger is leading to harm toward yourself or someone else, please step away and speak with someone you trust, or a professional.",
+    "keywords": ["gussa", "ghussa", "naraaz", "naraazgi", "angry", "anger", "rage", "ghusse mein", "taish"]
+  },
+  {
+    "slug": "heartbroken", "emoji": "💔", "label": "I feel heartbroken", "title": "When your heart is broken",
+    "intro": ["A broken heart is real pain. The prophets in the Quran spoke openly of their sorrow to Allah, and you are allowed to bring yours.", "Be gentle with yourself while you read."],
+    "verses": ["v-12-86", "v-2-156", "v-94-5", "v-12-87"], "quran_duas": ["q-21-87"], "prophetic_duas": ["h-musibah"], "guidance": ["g-eyes-weep", "g-first-shock", "g-expiation"],
+    "care_note": "Heartbreak can be heavy. Talking with a trusted friend, a family member or a counsellor is a good thing to do alongside prayer.",
+    "keywords": ["dil toot gaya", "dil tuta", "heartbreak", "heartbroken", "breakup", "bewafai", "dhoka", "judai", "bichhad", "rishta toot"]
+  },
+  {
+    "slug": "guilty", "emoji": "🥺", "label": "I feel guilty about my sins", "title": "When you feel guilty",
+    "intro": ["Feeling remorse can be the beginning of returning. The Quran and the Sunnah speak of Allah's mercy toward those who return, again and again.", "Tawbah is not a ritual of shame. It is turning back."],
+    "verses": ["v-39-53", "v-2-222", "v-20-82"], "quran_duas": ["q-7-23", "q-28-16", "q-3-147", "q-2-127"], "prophetic_duas": ["h-istighfar", "h-zulm", "h-khatiah", "h-sujud-forgive"], "guidance": ["g-mercy-prevails"],
+    "extra": {
+      "title": "What is tawbah?",
+      "text": "Scholars describe sincere tawbah as: stopping the wrong, feeling remorse for it, resolving not to return to it, and, where someone else was wronged, putting it right with them if possible. If you slip again, you can return again. This page is not a fatwa; for particular situations, please ask a qualified scholar."
+    },
+    "care_note": "If guilt feels overwhelming, constant or out of proportion, speaking to a counsellor or a trusted scholar can help.",
+    "keywords": ["gunah", "gunahgaar", "sharminda", "sharmindagi", "pachtawa", "guilty", "guilt", "tauba", "maafi", "maaf", "forgive", "sin", "regret"]
+  },
+  {
+    "slug": "lost", "emoji": "🌫️", "label": "I feel lost in life", "title": "When you feel lost",
+    "intro": ["Feeling lost is often the moment when we most need to ask for guidance. A request for guidance sits at the heart of every prayer.", "You do not have to see the whole path. Ask for the next step."],
+    "verses": ["v-2-216", "v-3-159", "v-65-3"], "quran_duas": ["q-1-6", "q-3-8", "q-18-10"], "prophetic_duas": ["h-huda", "h-night-opening", "h-musarrif", "h-istikhara"], "guidance": ["g-servant-thinks"],
+    "care_note": "If feeling lost is mixed with deep sadness or hopelessness, please speak to someone you trust or a professional as well.",
+    "keywords": ["lost", "bhatak", "bhatka hua", "raasta", "rasta", "hidayat", "confused", "kya karun", "zindagi", "maqsad", "purpose", "direction"]
+  },
+  {
+    "slug": "hopeless", "emoji": "😞", "label": "I feel hopeless", "title": "When you feel hopeless",
+    "intro": ["Hopelessness can say 'nothing will ever change'. The sources here speak against despair, gently.", "Read slowly. One verse is enough for now."],
+    "verses": ["v-12-87", "v-39-53", "v-94-5", "v-2-286a"], "quran_duas": ["q-21-87"], "prophetic_duas": ["h-karb"], "guidance": ["g-servant-thinks", "g-mercy-prevails", "g-cure"],
+    "crisis": true,
+    "care_note": "If you are thinking about harming yourself or ending your life, please contact your local emergency services or a crisis line now, or reach someone you trust and tell them how you feel. In India, Tele-MANAS is available at 14416 and the emergency number is 112. If you are elsewhere, search for your local crisis line. You deserve support from people as well as from this page.",
+    "keywords": ["na umeed", "naumeed", "mayoos", "hopeless", "despair", "umeed nahin", "kuch nahin hoga", "thak gaya zindagi", "no hope", "give up", "himmat haar"]
+  },
+  {
+    "slug": "overthinking", "emoji": "🧠", "label": "I am overthinking", "title": "When your mind will not stop",
+    "intro": ["A mind that replays the past and rehearses the future is tiring. Two things help in the sources: handing the matter to Allah, and acting on what you can.", "The Prophet's ﷺ advice about 'if only' speaks directly to the habit of replaying."],
+    "verses": ["v-13-28", "v-65-3", "v-2-216", "v-9-129"], "quran_duas": ["q-3-173"], "prophetic_duas": ["h-hamm", "h-aslamtu"], "guidance": ["g-strong-believer", "g-cure"],
+    "care_note": "If thoughts feel unstoppable, intrusive or are affecting your daily life, a doctor or a counsellor can help. This is not a weakness of faith.",
+    "keywords": ["overthinking", "zyada sochna", "bohat sochta hoon", "soch", "khayalat", "waswase", "dimaag", "kaash", "pachtawa", "regret", "ruminating", "mind racing"]
+  },
+  {
+    "slug": "scared", "emoji": "😟", "label": "I am scared", "title": "When you feel afraid",
+    "intro": ["Fear is natural. In the Quran, even Musa and Harun (peace be upon them) felt it, and Allah reassured them.", "These are words of refuge and reliance."],
+    "verses": ["v-20-46", "v-9-40", "v-65-3"], "quran_duas": ["q-3-173", "q-23-97", "q-10-85", "q-2-250"], "prophetic_duas": ["h-kalimat", "h-aslamtu", "h-karb"], "guidance": [],
+    "care_note": "If you are in danger, please contact the emergency services or someone who can help in person. If fear is persistent, a counsellor can help.",
+    "keywords": ["dar", "darr", "dar lagta hai", "khauf", "scared", "afraid", "fear", "frightened", "ghabrahat", "phobia"]
+  },
+  {
+    "slug": "lonely", "emoji": "🥀", "label": "I feel lonely", "title": "When you feel lonely",
+    "intro": ["Loneliness can be heavy, and it does not mean something is wrong with you. The Quran describes Allah's nearness in plain words.", "Reaching out to a person you trust is also a good step."],
+    "verses": ["v-2-186", "v-50-16", "v-9-40"], "quran_duas": ["q-28-24"], "prophetic_duas": ["h-aslamtu", "h-ridaka"], "guidance": ["g-servant-thinks", "g-sajda-near"],
+    "care_note": "If loneliness is long-lasting, consider reaching out to a friend, a family member, a community, or a counsellor.",
+    "keywords": ["akela", "akelapan", "tanha", "tanhai", "lonely", "alone", "loneliness", "koi nahin", "koi samajhta nahin"]
+  },
+  {
+    "slug": "exhausted", "emoji": "😴", "label": "I am exhausted", "title": "When you are exhausted",
+    "intro": ["Tiredness of the body or the spirit is real. In the Sunnah, rest is named as a right, and the religion is described as ease.", "Do what you can, and ask Allah for the strength for what remains."],
+    "verses": ["v-2-286a", "v-94-5"], "quran_duas": ["q-2-286", "q-2-250"], "prophetic_duas": ["h-hamm"], "guidance": ["g-rights", "g-ease", "g-expiation"],
+    "care_note": "If exhaustion does not improve with rest, please see a doctor. It can have physical or emotional causes that can be treated.",
+    "keywords": ["thak", "thakan", "thaka hua", "exhausted", "tired", "burnout", "thak gaya", "neend", "aaram", "himmat nahin"]
+  },
+  {
+    "slug": "patience", "emoji": "🤍", "label": "I am struggling with patience", "title": "When patience is hard",
+    "intro": ["Patience is not pretending that things are fine. The Prophet ﷺ said that patience is at the first shock, and that the believer is patient and grateful by turns.", "Ask for it, as the believers in the Quran did."],
+    "verses": ["v-2-153", "v-3-139", "v-2-156"], "quran_duas": ["q-2-250", "q-7-126"], "prophetic_duas": ["h-musibah"], "guidance": ["g-first-shock", "g-believer-affair", "g-ease"],
+    "care_note": "If the strain is wearing you down, share it with someone you trust.",
+    "keywords": ["sabr", "sabar", "patience", "himmat", "bardasht", "intezar", "waiting", "impatient"]
+  },
+  {
+    "slug": "closer", "emoji": "🤲", "label": "I want to become closer to Allah", "title": "Coming closer to Allah",
+    "intro": ["Wanting to come closer to Allah is a good place to begin. Start small and keep it steady.", "Here are verses on His nearness and supplications of the Prophet ﷺ made in prayer."],
+    "verses": ["v-2-186", "v-50-16", "v-13-28", "v-2-152"], "quran_duas": ["q-2-127", "q-3-8", "q-1-6"], "prophetic_duas": ["h-ridaka", "h-sujud-forgive", "h-subhanallah-100", "h-night-opening"], "guidance": ["g-sajda-near", "g-servant-thinks"],
+    "care_note": null,
+    "keywords": ["closer to allah", "qareeb", "allah ke qareeb", "nazdeek", "iman", "imaan badhana", "hidayat", "nek banna", "i want to become closer to allah", "spiritual"]
+  },
+  {
+    "slug": "grateful", "emoji": "❤️", "label": "I am grateful to Allah", "title": "When you are grateful",
+    "intro": ["Gratitude is worship. The Quran gives words for thanks, and the Prophet ﷺ taught phrases to say after a meal or on waking.", "Say them slowly."],
+    "verses": ["v-14-7", "v-2-152"], "quran_duas": ["q-27-19", "q-46-15"], "prophetic_duas": ["h-after-eat", "h-wake"], "guidance": ["g-believer-affair"],
+    "care_note": null,
+    "keywords": ["shukr", "shukar", "shukriya", "grateful", "thankful", "gratitude", "alhamdulillah", "naimat", "khushi"]
+  }
+]

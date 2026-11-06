@@ -1,0 +1,20 @@
+:root{
+  --cream:#F7F3EA; --sand:#E8DFCE; --olive:#69775A; --olive-deep:#343D32; --charcoal:#292D27; --gold:#A98E4F;
+  --bg:var(--cream); --bg-alt:#F1EBDD; --surface:#FFFDF8; --surface-2:var(--sand);
+  --text:var(--charcoal); --text-soft:#5B6155; --accent:var(--olive); --accent-strong:var(--olive-deep);
+  --accent-ink:#fff; --line:#DDD3BF; --gold-soft:#C9B27A; --danger:#8A4B3A; --focus:#3F5B8A;
+  --shadow:0 1px 2px rgba(41,45,39,.06),0 8px 24px rgba(41,45,39,.07);
+  --radius:18px; --radius-sm:10px; --maxw:1120px;
+  --font-body:'DM Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  --font-display:'Cormorant Garamond',Georgia,'Times New Roman',serif;
+  --font-ar:'Amiri','Noto Naskh Arabic','Traditional Arabic','Scheherazade New',serif;
+  --fs-ar:2rem; --fs-tr:1rem; --fs-tl:1.0625rem;
+  --pattern:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%2369775A' stroke-opacity='.13' stroke-width='1'%3E%3Cpath d='M40 4l9 17 19-4-8 18 14 13-19 5-1 19-14-12-14 12-1-19-19-5 14-13-8-18 19 4z'/%3E%3C/g%3E%3C/svg%3E");
+}
+:root[data-theme="sand"]{--bg:#E8DFCE;--bg-alt:#DFD4BE;--surface:#F4EDDD;--surface-2:#D9CDB4;--line:#C9BC9F;--text-soft:#4E5348}
+:root[data-theme="night"]{
+  --bg:#1D211C;--bg-alt:#242922;--surface:#2A2F28;--surface-2:#343D32;--text:#EFE9DA;--text-soft:#B9B7A8;
+  --accent:#A3B28F;--accent-strong:#C4D1B0;--accent-ink:#1D211C;--line:#3D443A;--gold:#CDB677;--gold-soft:#8E7C4D;--danger:#D79A86;--focus:#9DB8E8;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+  --pattern:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%23A3B28F' stroke-opacity='.10' stroke-width='1'%3E%3Cpath d='M40 4l9 17 19-4-8 18 14 13-19 5-1 19-14-12-14 12-1-19-19-5 14-13-8-18 19 4z'/%3E%3C/g%3E%3C/svg%3E");
+}

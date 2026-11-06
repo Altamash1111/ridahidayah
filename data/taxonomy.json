@@ -1,0 +1,84 @@
+{
+  "groups": [
+    { "slug": "spiritual", "title": "Spiritual growth", "description": "Duas for the relationship between you and Allah: gratitude, repentance, guidance and faith." },
+    { "slug": "life", "title": "Life and worldly needs", "description": "Duas for livelihood, family, decisions and the practical matters of everyday life." },
+    { "slug": "health", "title": "Health and wellbeing", "description": "Duas for illness, worry, grief, sleep and the inner life." },
+    { "slug": "akhirah", "title": "Akhirah", "description": "Duas about the Hereafter: Paradise, protection from the Fire, the grave and a good ending." }
+  ],
+  "categories": [
+    { "slug": "gratitude", "group": "spiritual", "title": "Gratitude to Allah", "description": "Words of thanks for Allah's favours, and requests to be among the grateful." },
+    { "slug": "forgiveness", "group": "spiritual", "title": "Seeking forgiveness", "description": "Istighfar from the Quran and Sunnah, from short phrases to the master supplication." },
+    { "slug": "repentance", "group": "spiritual", "title": "Repentance", "description": "Returning to Allah after a mistake, with the words the Quran gives to those who return." },
+    { "slug": "guidance", "group": "spiritual", "title": "Guidance", "description": "Asking Allah to show the way and to keep us on it." },
+    { "slug": "iman", "group": "spiritual", "title": "Strengthening iman", "description": "Supplications that renew faith and keep the heart turned toward Allah." },
+    { "slug": "taqwa", "group": "spiritual", "title": "Increasing taqwa", "description": "Asking for God-consciousness and a purified self." },
+    { "slug": "sabr", "group": "spiritual", "title": "Patience and sabr", "description": "Supplications and reminders for steadiness through hardship." },
+    { "slug": "closeness", "group": "spiritual", "title": "Getting closer to Allah", "description": "Supplications of remembrance and nearness, including those made in prostration." },
+    { "slug": "protection-from-sins", "group": "spiritual", "title": "Protection from sins", "description": "Asking Allah to keep us away from what displeases Him." },
+    { "slug": "steadfastness", "group": "spiritual", "title": "Steadfastness in faith", "description": "Asking for hearts and feet that stay firm." },
+
+    { "slug": "rizq", "group": "life", "title": "Rizq and sustenance", "description": "Supplications for provision, sufficiency and what is good." },
+    { "slug": "barakah", "group": "life", "title": "Barakah in life", "description": "Asking for blessing in homes, meals and new beginnings." },
+    { "slug": "knowledge", "group": "life", "title": "Knowledge and wisdom", "description": "Supplications for beneficial knowledge and understanding." },
+    { "slug": "success", "group": "life", "title": "Success", "description": "Asking Allah for ease and success in tasks and responsibilities." },
+    { "slug": "marriage", "group": "life", "title": "Marriage", "description": "Supplications related to spouses and the marital home." },
+    { "slug": "family", "group": "life", "title": "Parents and family", "description": "Supplications for parents and for family life." },
+    { "slug": "children", "group": "life", "title": "Children", "description": "Supplications for righteous children and for their protection." },
+    { "slug": "protection-from-evil", "group": "life", "title": "Protection from evil", "description": "Seeking refuge in Allah from harmful whispers and evil." },
+    { "slug": "hardships", "group": "life", "title": "Difficulties and hardships", "description": "Supplications and reminders for times that are hard." },
+    { "slug": "debt", "group": "life", "title": "Debt and financial difficulties", "description": "Asking Allah for help with what is owed. These supplications go alongside practical steps." },
+    { "slug": "travelling", "group": "life", "title": "Travelling", "description": "Supplications for a journey, for arrival and for stopping on the way." },
+    { "slug": "istikhara", "group": "life", "title": "Istikhara", "description": "The prayer of seeking Allah's guidance in a choice." },
+    { "slug": "decisions", "group": "life", "title": "Making decisions", "description": "Supplications and Quranic guidance for when you must decide." },
+
+    { "slug": "healing", "group": "health", "title": "Seeking healing", "description": "Supplications for those who are ill. They sit alongside medical care, not in place of it." },
+    { "slug": "protection-from-illness", "group": "health", "title": "Protection from illness", "description": "Asking Allah to keep well-being and to remove what harms it." },
+    { "slug": "anxiety", "group": "health", "title": "Anxiety and worry", "description": "Words for a mind weighed down by worry." },
+    { "slug": "distress-grief", "group": "health", "title": "Distress and grief", "description": "Supplications for sorrow, loss and distress." },
+    { "slug": "sleep", "group": "health", "title": "Sleep", "description": "What the Prophet ﷺ recited before sleeping and upon waking." },
+    { "slug": "fear", "group": "health", "title": "Fear", "description": "Reminders and supplications for when fear is present." },
+    { "slug": "mental-peace", "group": "health", "title": "Mental peace", "description": "Verses and supplications of tranquillity and trust." },
+    { "slug": "protection-from-harm", "group": "health", "title": "Protection from harm", "description": "Asking for Allah's safeguarding." },
+    { "slug": "loneliness", "group": "health", "title": "Loneliness", "description": "Reminders of Allah's nearness for those who feel alone." },
+    { "slug": "emotional-difficulties", "group": "health", "title": "Emotional difficulties", "description": "Guidance for heavy feelings: anger, regret, exhaustion and sorrow." },
+
+    { "slug": "jannah", "group": "akhirah", "title": "Asking for Jannah", "description": "Quranic supplications that ask for Paradise and the company of the righteous." },
+    { "slug": "hellfire", "group": "akhirah", "title": "Protection from Hellfire", "description": "Supplications for safety from the Fire." },
+    { "slug": "judgment", "group": "akhirah", "title": "Forgiveness on the Day of Judgment", "description": "Asking Allah not to disgrace us on the Day of Resurrection, and to forgive us." },
+    { "slug": "grave", "group": "akhirah", "title": "Protection from the punishment of the grave", "description": "Seeking refuge from the punishment of the grave." },
+    { "slug": "husn-khatimah", "group": "akhirah", "title": "Husn al-khatimah", "description": "Asking for a good ending." },
+    { "slug": "trials", "group": "akhirah", "title": "Trials of the dunya and akhirah", "description": "Seeking refuge from the trials of life and death." }
+  ],
+  "quran_topics": [
+    { "slug": "guidance", "title": "Guidance", "description": "Asking Allah to show the way and keep us on it." },
+    { "slug": "forgiveness", "title": "Forgiveness", "description": "The Quran's own words for asking Allah to forgive." },
+    { "slug": "knowledge", "title": "Knowledge", "description": "Asking for knowledge and ease in understanding." },
+    { "slug": "patience", "title": "Patience", "description": "Supplications of the believers in hardship." },
+    { "slug": "gratitude", "title": "Gratitude", "description": "Thanking Allah and asking to be grateful." },
+    { "slug": "protection", "title": "Protection", "description": "Seeking refuge and reliance on Allah." },
+    { "slug": "parents", "title": "Parents", "description": "Praying for those who raised us." },
+    { "slug": "family", "title": "Family", "description": "Spouses, children and the home." },
+    { "slug": "rizq", "title": "Rizq", "description": "Need, provision and blessing." },
+    { "slug": "jannah", "title": "Jannah", "description": "Asking for Paradise and a good ending." },
+    { "slug": "hellfire", "title": "Protection from Hellfire", "description": "Seeking safety from the Fire." },
+    { "slug": "mercy", "title": "Mercy", "description": "Asking for Allah's mercy." },
+    { "slug": "steadfastness", "title": "Steadfastness", "description": "Firm hearts and firm feet." }
+  ],
+  "situations": [
+    { "slug": "forgiveness", "title": "Seeking forgiveness", "description": "What the Prophet ﷺ said when asking Allah to forgive." },
+    { "slug": "distress", "title": "Worry, distress and loss", "description": "The Prophet's ﷺ supplications when things weigh heavy." },
+    { "slug": "guidance", "title": "Guidance and decisions", "description": "Supplications for direction, firmness and choosing well." },
+    { "slug": "protection", "title": "Protection", "description": "Seeking refuge in Allah." },
+    { "slug": "healing", "title": "Illness and healing", "description": "For those who are ill, and for those who visit them." },
+    { "slug": "sleep", "title": "Sleep and waking", "description": "Words for the end and the start of the day." },
+    { "slug": "wealth", "title": "Debt and livelihood", "description": "Supplications for what is owed and what is needed." },
+    { "slug": "family", "title": "Family and marriage", "description": "Children, spouses and the household." },
+    { "slug": "travel", "title": "Travel", "description": "Setting out, journeying and stopping." },
+    { "slug": "daily", "title": "Food and daily life", "description": "Eating, entering the home and ordinary moments." },
+    { "slug": "worship", "title": "Prayer and mosque", "description": "Supplications connected to salah and the mosque." }
+  ],
+  "hadith_collections": {
+    "bukhari": { "name": "Sahih al-Bukhari", "arabic": "صحيح البخاري", "grade": "Sahih", "grading_source": "Included in Sahih al-Bukhari, a collection compiled on the condition of authenticity." },
+    "muslim": { "name": "Sahih Muslim", "arabic": "صحيح مسلم", "grade": "Sahih", "grading_source": "Included in Sahih Muslim, a collection compiled on the condition of authenticity." }
+  }
+}

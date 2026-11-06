@@ -1,0 +1,17 @@
+[
+  { "slug": "morning", "title": "Morning adhkar", "description": "Remembrance for the start of the day.", "entries": ["h-morning-evening", "h-istighfar", "h-subhanallah-100"],
+    "pending_note": "Other morning adhkar that circulate widely are in the review queue because their sources or gradings have not yet been confirmed in this collection." },
+  { "slug": "evening", "title": "Evening adhkar", "description": "Remembrance as the day closes.", "entries": ["h-morning-evening", "h-istighfar", "h-subhanallah-100"],
+    "pending_note": "Other evening adhkar that circulate widely are in the review queue because their sources or gradings have not yet been confirmed in this collection." },
+  { "slug": "after-salah", "title": "After salah", "description": "What the Prophet ﷺ said after finishing the obligatory prayer.", "entries": ["h-after-salah-istighfar", "h-antas-salam", "h-tasbih-33"] },
+  { "slug": "before-sleep", "title": "Before sleeping", "description": "Verses and words for the night.", "entries": ["d-2-255", "d-2-285", "d-112", "d-113", "d-114", "h-sleep", "h-aslamtu", "h-debt"] },
+  { "slug": "waking", "title": "Upon waking up", "description": "Thanks for beginning another day.", "entries": ["h-wake"] },
+  { "slug": "entering-home", "title": "Entering home", "description": "Mentioning Allah on coming home.", "entries": ["g-home-mention"] },
+  { "slug": "leaving-home", "title": "Leaving home", "description": "Supplications on stepping out.", "entries": [],
+    "pending_note": "The commonly recited supplication for leaving home is narrated in Sunan Abi Dawud and Jami' at-Tirmidhi, which are outside the two Sahih collections. It is in the review queue until its grading has been checked, so it is not shown here yet." },
+  { "slug": "entering-mosque", "title": "Entering the mosque", "description": "Asking for mercy as you enter.", "entries": ["h-mosque-in"] },
+  { "slug": "leaving-mosque", "title": "Leaving the mosque", "description": "Asking for bounty as you leave.", "entries": ["h-mosque-out"] },
+  { "slug": "before-eating", "title": "Before eating", "description": "Beginning in the name of Allah.", "entries": ["h-bismillah-eat"] },
+  { "slug": "after-eating", "title": "After eating", "description": "Thanking Allah for food.", "entries": ["h-after-eat"] },
+  { "slug": "travelling", "title": "Travelling", "description": "For setting out and for stopping on a journey.", "entries": ["h-travel", "h-kalimat"] }
+]

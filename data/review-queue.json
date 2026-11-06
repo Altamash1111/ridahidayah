@@ -1,0 +1,306 @@
+[
+ {
+  "id": "r-leave-home",
+  "title": "Supplication for leaving the home ('Bismillahi tawakkaltu 'alallah')",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections. Text, reference number and grading must be confirmed against the source before it is shown.",
+  "keywords": [
+   "leaving home",
+   "ghar se nikalte",
+   "bahir jate",
+   "nikalna",
+   "exit house"
+  ],
+  "categories": [
+   "travelling"
+  ]
+ },
+ {
+  "id": "r-enter-home",
+  "title": "Supplication for entering the home ('Bismillahi walajna')",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed.",
+  "keywords": [
+   "entering home",
+   "ghar mein dakhil",
+   "ghar aate"
+  ],
+  "categories": []
+ },
+ {
+  "id": "r-yunus-hadith",
+  "title": "Hadith encouraging the supplication of Yunus (peace be upon him)",
+  "claimed_source": "Commonly cited to Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "The Quranic words themselves (21:87) are already included as a verified Quranic dua. The hadith attributing a specific encouragement to the Prophet ﷺ has not had its grading confirmed here.",
+  "keywords": [
+   "yunus",
+   "dua e yunus",
+   "distress"
+  ],
+  "categories": [
+   "distress-grief",
+   "anxiety"
+  ]
+ },
+ {
+  "id": "r-rahmataka",
+  "title": "'Allahumma rahmataka arju' — the supplication of the distressed",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading must be confirmed.",
+  "keywords": [
+   "rahmataka arju",
+   "distress",
+   "pareshani",
+   "anxiety",
+   "karb"
+  ],
+  "categories": [
+   "distress-grief",
+   "anxiety"
+  ]
+ },
+ {
+  "id": "r-afiyah",
+  "title": "'Allahumma inni as'alukal-'afwa wal-'afiyah' — asking for pardon and well-being",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Sunan Ibn Majah",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; reference and grading are not confirmed.",
+  "keywords": [
+   "afiyah",
+   "afiyat",
+   "afwa",
+   "allahumma inni as'aluka al afiyah",
+   "well-being",
+   "health",
+   "sehat"
+  ],
+  "categories": [
+   "protection-from-illness",
+   "healing"
+  ]
+ },
+ {
+  "id": "r-afini",
+  "title": "'Allahumma 'afini fi badani' — well-being of body, hearing and sight",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed.",
+  "keywords": [
+   "afini",
+   "badan",
+   "body",
+   "hearing",
+   "sight"
+  ],
+  "categories": [
+   "protection-from-illness"
+  ]
+ },
+ {
+  "id": "r-halal",
+  "title": "'Allahummak-fini bihalalika 'an haramika' — for debt and provision",
+  "claimed_source": "Commonly cited to Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; reference and grading are not confirmed. Verified supplications about debt are listed in the Debt category.",
+  "keywords": [
+   "qarz",
+   "debt",
+   "halal",
+   "rizq",
+   "provision"
+  ],
+  "categories": [
+   "debt",
+   "rizq"
+  ]
+ },
+ {
+  "id": "r-muqallib",
+  "title": "'Ya muqallibal-qulub, thabbit qalbi 'ala dinik'",
+  "claimed_source": "Commonly cited to Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed. A verified supplication on the same theme (Sahih Muslim 2654) is already included.",
+  "keywords": [
+   "muqallib",
+   "dil",
+   "steadfastness",
+   "sabit"
+  ],
+  "categories": [
+   "steadfastness",
+   "iman"
+  ]
+ },
+ {
+  "id": "r-la-yadurru",
+  "title": "'Bismillahil-ladhi la yadurru ma'asmihi shay'un' — morning and evening",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading and the stated repetition count are not confirmed.",
+  "keywords": [
+   "bismillahil ladhi",
+   "morning",
+   "evening",
+   "subah",
+   "shaam",
+   "hifazat"
+  ],
+  "categories": [
+   "protection-from-harm"
+  ]
+ },
+ {
+  "id": "r-mu-awwidhat-morning",
+  "title": "Reciting al-Ikhlas, al-Falaq and an-Nas three times in the morning and evening",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "The surahs are verified. The morning and evening count comes from collections outside the two Sahih books and is awaiting grading.",
+  "keywords": [
+   "ikhlas",
+   "falaq",
+   "nas",
+   "morning",
+   "evening"
+  ],
+  "categories": []
+ },
+ {
+  "id": "r-a-inni",
+  "title": "'Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik'",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Sunan an-Nasa'i",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed.",
+  "keywords": [
+   "shukr",
+   "gratitude",
+   "dhikr",
+   "ibadat",
+   "mu'adh"
+  ],
+  "categories": [
+   "gratitude",
+   "closeness"
+  ]
+ },
+ {
+  "id": "r-barakallah",
+  "title": "'Barakallahu laka wa baraka 'alayka' — congratulating a married couple",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed.",
+  "keywords": [
+   "shadi",
+   "nikah",
+   "wedding",
+   "marriage",
+   "mubarak"
+  ],
+  "categories": [
+   "marriage"
+  ]
+ },
+ {
+  "id": "r-nfani",
+  "title": "'Allahumma-nfa'ni bima 'allamtani' — for beneficial knowledge",
+  "claimed_source": "Commonly cited to Jami' at-Tirmidhi and Sunan Ibn Majah",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed. Verified supplications about knowledge are in the Knowledge category.",
+  "keywords": [
+   "ilm",
+   "knowledge",
+   "nafa",
+   "student",
+   "padhai"
+  ],
+  "categories": [
+   "knowledge"
+  ]
+ },
+ {
+  "id": "r-jannah-tashahhud",
+  "title": "'Allahumma inni as'alukal-jannah wa a'udhu bika minan-nar'",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Sunan Ibn Majah",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed. Quranic supplications for Paradise are already included.",
+  "keywords": [
+   "jannah",
+   "paradise",
+   "heaven"
+  ],
+  "categories": [
+   "jannah",
+   "hellfire"
+  ]
+ },
+ {
+  "id": "r-sit-when-angry",
+  "title": "Sitting or lying down when angry",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; grading is not confirmed.",
+  "keywords": [
+   "anger",
+   "gussa",
+   "sit",
+   "lie down",
+   "baith jao"
+  ],
+  "categories": [
+   "emotional-difficulties"
+  ]
+ },
+ {
+  "id": "r-inni-abduka",
+  "title": "'Allahumma inni 'abduka, ibnu 'abdika' — for anxiety and sorrow",
+  "claimed_source": "Commonly cited to Musnad Ahmad",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; text, reference and grading are not confirmed.",
+  "keywords": [
+   "anxiety",
+   "sorrow",
+   "gham",
+   "hamm",
+   "pareshani",
+   "abduka"
+  ],
+  "categories": [
+   "anxiety",
+   "distress-grief"
+  ]
+ },
+ {
+  "id": "r-100-istighfar",
+  "title": "'Rabbi ighfir li wa tub 'alayya' — reported as said many times in one sitting",
+  "claimed_source": "Commonly cited to Sunan Abi Dawud and Jami' at-Tirmidhi",
+  "status": "REQUIRES REVIEW",
+  "reason": "Outside the two Sahih collections; the reported count and grading are not confirmed.",
+  "keywords": [
+   "istighfar",
+   "tauba",
+   "tawwab",
+   "repentance"
+  ],
+  "categories": [
+   "repentance",
+   "forgiveness"
+  ]
+ },
+ {
+  "id": "x-rajab-sha-ban",
+  "title": "A supplication about blessing in Rajab and Sha'ban and reaching Ramadan",
+  "claimed_source": "Widely circulated; attributed to the Prophet ﷺ",
+  "status": "EXCLUDED",
+  "reason": "Widely discussed by hadith scholars as having a weak chain, so it is not published as an authentic Prophetic supplication.",
+  "keywords": [
+   "rajab",
+   "shaban",
+   "ramadan",
+   "barik lana"
+  ],
+  "categories": []
+ }
+]

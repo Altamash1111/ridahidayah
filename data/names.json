@@ -1,0 +1,1452 @@
+{
+  "meta": {
+    "title": "Asma ul Husna — The Beautiful Names of Allah",
+    "disclosure": "The Prophet ﷺ said that Allah has ninety-nine names (Sahih al-Bukhari 2736; Sahih Muslim 2677). Scholars differ on the exact list: the enumerations in circulation, including the one in Jami' at-Tirmidhi, are regarded by many hadith scholars as a later compilation rather than the words of the Prophet ﷺ. This page uses the commonly published list of 99 names. Translations here are drafts awaiting human review.",
+    "review_status": "REQUIRES REVIEW",
+    "review_notes": [
+      "Name 65 (Al-Majid / Al-Maajid): shares its transliteration with Name 48; list-membership and exact form vary between lists.",
+      "Names 66-68 (Al-Wahid, Al-Ahad, As-Samad): lists differ on which of these are included; confirm against the intended list.",
+      "Name 77 (Al-Wali): list-membership uncertain; the Quran uses 'waliyy' (Name 55).",
+      "Name 28 (Al-Hakam): Quran has 'hakam' only indirectly (6:114); no ref given.",
+      "Name 29 (Al-'Adl): Quran uses 'adl' as a noun, not clearly as a divine name; no ref given.",
+      "Name 60 (Al-Muhyi): Quran has 'muhyi al-mawta' in construct form (30:50, 41:39); confirm it counts.",
+      "Names 20-25, 41, 49, 57-59, 61, 64, 71-72, 81, 86, 89-92, 96-99: not found in this exact form in the Quran; refs empty. Spelling and list-membership vary between enumerations.",
+      "Names 84 and 85 (Malik-ul-Mulk, Dhul-Jalali wal-Ikram): compound names; refs verified by presence of both words.",
+      "Names 39, 40, 43, 52, 70, 82, 83, 94 (e.g. Al-Muqit, Al-Hasib, Ar-Raqib, Al-Hadi): cited ayat use indefinite/accusative forms; matched by text only.",
+      "Refs for Al-Hakim, Al-Karim, Al-Qawiyy, Al-'Alim, Ar-Rahim and similar were matched on text form; reviewer should confirm each cited ayah refers to Allah.",
+      "Name 78 (Al-Muta'ali): Quran spelling in 13:9 is 'al-muta'al' (final ya dropped); Arabic given in the standard form.",
+      "Roman Urdu and explanations are drafts for all names; Names 20-25, 49, 57-61, 71-72, 89-92 are paired/opposite names needing careful human review of wording."
+    ]
+  },
+  "names": [
+    {
+      "number": 1,
+      "arabic": "ٱلرَّحْمَٰنُ",
+      "transliteration": "Ar-Rahman",
+      "english": "The Most Gracious",
+      "roman_urdu": "Bohat meherbaan",
+      "explanation": "The One whose mercy is vast and encompasses all of creation.",
+      "quran_refs": [
+        {
+          "surah": 1,
+          "ayah": 3
+        },
+        {
+          "surah": 2,
+          "ayah": 163
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "arabic": "ٱلرَّحِيمُ",
+      "transliteration": "Ar-Rahim",
+      "english": "The Most Merciful",
+      "roman_urdu": "Hamesha raham karne wala",
+      "explanation": "The One who shows continual mercy, especially to the believers.",
+      "quran_refs": [
+        {
+          "surah": 1,
+          "ayah": 3
+        },
+        {
+          "surah": 2,
+          "ayah": 163
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "arabic": "ٱلْمَلِكُ",
+      "transliteration": "Al-Malik",
+      "english": "The Sovereign",
+      "roman_urdu": "Sab ka badshah",
+      "explanation": "The King and absolute Owner of all things, to whom everything belongs.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        },
+        {
+          "surah": 20,
+          "ayah": 114
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "arabic": "ٱلْقُدُّوسُ",
+      "transliteration": "Al-Quddus",
+      "english": "The Most Holy",
+      "roman_urdu": "Har aib se paak",
+      "explanation": "The One who is pure and free from every fault and imperfection.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        },
+        {
+          "surah": 62,
+          "ayah": 1
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "arabic": "ٱلسَّلَامُ",
+      "transliteration": "As-Salam",
+      "english": "The Source of Peace",
+      "roman_urdu": "Salamti dene wala",
+      "explanation": "The One who is free from all defect and the source of peace and safety.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "arabic": "ٱلْمُؤْمِنُ",
+      "transliteration": "Al-Mu'min",
+      "english": "The Granter of Security",
+      "roman_urdu": "Aman dene wala",
+      "explanation": "The One who gives security and affirms the truth of His messengers and promises.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "arabic": "ٱلْمُهَيْمِنُ",
+      "transliteration": "Al-Muhaymin",
+      "english": "The Guardian",
+      "roman_urdu": "Nigehbaan o muhafiz",
+      "explanation": "The One who watches over and safeguards all things.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "arabic": "ٱلْعَزِيزُ",
+      "transliteration": "Al-'Aziz",
+      "english": "The Almighty",
+      "roman_urdu": "Sab par ghalib, zabardast",
+      "explanation": "The Mighty One who is never overcome.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        },
+        {
+          "surah": 2,
+          "ayah": 129
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "arabic": "ٱلْجَبَّارُ",
+      "transliteration": "Al-Jabbar",
+      "english": "The Compeller",
+      "roman_urdu": "Apni marzi chalane wala",
+      "explanation": "The One whose will prevails over all, and who restores and mends.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "arabic": "ٱلْمُتَكَبِّرُ",
+      "transliteration": "Al-Mutakabbir",
+      "english": "The Supreme in Greatness",
+      "roman_urdu": "Sab se bada aur buzurg",
+      "explanation": "The One who is supremely great; greatness belongs to Him alone.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 23
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "arabic": "ٱلْخَالِقُ",
+      "transliteration": "Al-Khaliq",
+      "english": "The Creator",
+      "roman_urdu": "Paida karne wala",
+      "explanation": "The One who brings all things into being.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 24
+        },
+        {
+          "surah": 6,
+          "ayah": 102
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "arabic": "ٱلْبَارِئُ",
+      "transliteration": "Al-Bari'",
+      "english": "The Maker",
+      "roman_urdu": "Banane wala",
+      "explanation": "The One who originates and fashions creation, free of any flaw in His design.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 24
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "arabic": "ٱلْمُصَوِّرُ",
+      "transliteration": "Al-Musawwir",
+      "english": "The Fashioner",
+      "roman_urdu": "Soorat banane wala",
+      "explanation": "The One who gives every creature its form and shape.",
+      "quran_refs": [
+        {
+          "surah": 59,
+          "ayah": 24
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "arabic": "ٱلْغَفَّارُ",
+      "transliteration": "Al-Ghaffar",
+      "english": "The Ever-Forgiving",
+      "roman_urdu": "Bohat bakhshne wala",
+      "explanation": "The One who forgives again and again.",
+      "quran_refs": [
+        {
+          "surah": 20,
+          "ayah": 82
+        },
+        {
+          "surah": 38,
+          "ayah": 66
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "arabic": "ٱلْقَهَّارُ",
+      "transliteration": "Al-Qahhar",
+      "english": "The Subduer",
+      "roman_urdu": "Sab par kaabu rakhne wala",
+      "explanation": "The One who overpowers all and to whom everything is subject.",
+      "quran_refs": [
+        {
+          "surah": 13,
+          "ayah": 16
+        },
+        {
+          "surah": 12,
+          "ayah": 39
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "arabic": "ٱلْوَهَّابُ",
+      "transliteration": "Al-Wahhab",
+      "english": "The Bestower",
+      "roman_urdu": "Bohat ata karne wala",
+      "explanation": "The One who gives generously and freely, without asking anything in return.",
+      "quran_refs": [
+        {
+          "surah": 3,
+          "ayah": 8
+        },
+        {
+          "surah": 38,
+          "ayah": 9
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "arabic": "ٱلرَّزَّاقُ",
+      "transliteration": "Ar-Razzaq",
+      "english": "The Provider",
+      "roman_urdu": "Rizq dene wala",
+      "explanation": "The One who provides sustenance to all His creation.",
+      "quran_refs": [
+        {
+          "surah": 51,
+          "ayah": 58
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "arabic": "ٱلْفَتَّاحُ",
+      "transliteration": "Al-Fattah",
+      "english": "The Opener",
+      "roman_urdu": "Faisla karne aur darwaze kholne wala",
+      "explanation": "The One who opens what is closed and judges between His servants with truth.",
+      "quran_refs": [
+        {
+          "surah": 34,
+          "ayah": 26
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "arabic": "ٱلْعَلِيمُ",
+      "transliteration": "Al-'Alim",
+      "english": "The All-Knowing",
+      "roman_urdu": "Sab kuch jaanne wala",
+      "explanation": "The One whose knowledge encompasses everything.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 29
+        },
+        {
+          "surah": 2,
+          "ayah": 32
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "arabic": "ٱلْقَابِضُ",
+      "transliteration": "Al-Qabid",
+      "english": "The Withholder",
+      "roman_urdu": "Tangi dene wala, rok lene wala",
+      "explanation": "The One who withholds and restricts as He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 21,
+      "arabic": "ٱلْبَاسِطُ",
+      "transliteration": "Al-Basit",
+      "english": "The Extender",
+      "roman_urdu": "Kushadgi dene wala, phailane wala",
+      "explanation": "The One who expands and gives abundance as He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 22,
+      "arabic": "ٱلْخَافِضُ",
+      "transliteration": "Al-Khafid",
+      "english": "The Abaser",
+      "roman_urdu": "Past karne wala",
+      "explanation": "The One who lowers whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 23,
+      "arabic": "ٱلرَّافِعُ",
+      "transliteration": "Ar-Rafi'",
+      "english": "The Exalter",
+      "roman_urdu": "Buland karne wala",
+      "explanation": "The One who raises in rank whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 24,
+      "arabic": "ٱلْمُعِزُّ",
+      "transliteration": "Al-Mu'izz",
+      "english": "The Giver of Honour",
+      "roman_urdu": "Izzat dene wala",
+      "explanation": "The One who grants honour and strength to whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 25,
+      "arabic": "ٱلْمُذِلُّ",
+      "transliteration": "Al-Mudhill",
+      "english": "The Giver of Dishonour",
+      "roman_urdu": "Be-izzat karne wala",
+      "explanation": "The One who humbles whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 26,
+      "arabic": "ٱلسَّمِيعُ",
+      "transliteration": "As-Sami'",
+      "english": "The All-Hearing",
+      "roman_urdu": "Sab kuch sunne wala",
+      "explanation": "The One who hears everything, spoken or unspoken.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 127
+        },
+        {
+          "surah": 42,
+          "ayah": 11
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "arabic": "ٱلْبَصِيرُ",
+      "transliteration": "Al-Basir",
+      "english": "The All-Seeing",
+      "roman_urdu": "Sab kuch dekhne wala",
+      "explanation": "The One who sees everything, great and small.",
+      "quran_refs": [
+        {
+          "surah": 42,
+          "ayah": 11
+        },
+        {
+          "surah": 17,
+          "ayah": 1
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "arabic": "ٱلْحَكَمُ",
+      "transliteration": "Al-Hakam",
+      "english": "The Judge",
+      "roman_urdu": "Faisla karne wala",
+      "explanation": "The One who judges between His creation with perfect justice.",
+      "quran_refs": []
+    },
+    {
+      "number": 29,
+      "arabic": "ٱلْعَدْلُ",
+      "transliteration": "Al-'Adl",
+      "english": "The Utterly Just",
+      "roman_urdu": "Poora insaaf karne wala",
+      "explanation": "The One who is perfectly just and never wrongs anyone.",
+      "quran_refs": []
+    },
+    {
+      "number": 30,
+      "arabic": "ٱللَّطِيفُ",
+      "transliteration": "Al-Latif",
+      "english": "The Subtle, The Kind",
+      "roman_urdu": "Barik-been aur meherbaan",
+      "explanation": "The One who is gentle and kind to His servants and knows the finest details of all things.",
+      "quran_refs": [
+        {
+          "surah": 6,
+          "ayah": 103
+        },
+        {
+          "surah": 31,
+          "ayah": 16
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "arabic": "ٱلْخَبِيرُ",
+      "transliteration": "Al-Khabir",
+      "english": "The All-Aware",
+      "roman_urdu": "Har cheez se baa-khabar",
+      "explanation": "The One who is fully aware of the inner reality of all things.",
+      "quran_refs": [
+        {
+          "surah": 6,
+          "ayah": 18
+        },
+        {
+          "surah": 6,
+          "ayah": 103
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "arabic": "ٱلْحَلِيمُ",
+      "transliteration": "Al-Halim",
+      "english": "The Forbearing",
+      "roman_urdu": "Bohat bardasht karne wala",
+      "explanation": "The One who does not hasten to punish despite the wrongdoing of His servants.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 225
+        },
+        {
+          "surah": 2,
+          "ayah": 235
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "arabic": "ٱلْعَظِيمُ",
+      "transliteration": "Al-'Azim",
+      "english": "The Magnificent",
+      "roman_urdu": "Bohat azmat wala",
+      "explanation": "The One of supreme greatness and majesty.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 255
+        },
+        {
+          "surah": 42,
+          "ayah": 4
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "arabic": "ٱلْغَفُورُ",
+      "transliteration": "Al-Ghafur",
+      "english": "The Oft-Forgiving",
+      "roman_urdu": "Bakhshne wala",
+      "explanation": "The One who forgives sins and covers faults.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 173
+        },
+        {
+          "surah": 34,
+          "ayah": 2
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "arabic": "ٱلشَّكُورُ",
+      "transliteration": "Ash-Shakur",
+      "english": "The Most Appreciative",
+      "roman_urdu": "Qadardaan",
+      "explanation": "The One who appreciates and generously rewards even small good deeds.",
+      "quran_refs": [
+        {
+          "surah": 35,
+          "ayah": 30
+        },
+        {
+          "surah": 64,
+          "ayah": 17
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "arabic": "ٱلْعَلِيُّ",
+      "transliteration": "Al-'Aliyy",
+      "english": "The Most High",
+      "roman_urdu": "Sab se oonche martabe wala",
+      "explanation": "The One who is exalted above all.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 255
+        },
+        {
+          "surah": 4,
+          "ayah": 34
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "arabic": "ٱلْكَبِيرُ",
+      "transliteration": "Al-Kabir",
+      "english": "The Most Great",
+      "roman_urdu": "Sab se bada",
+      "explanation": "The One who is greatest in essence, attributes and power.",
+      "quran_refs": [
+        {
+          "surah": 13,
+          "ayah": 9
+        },
+        {
+          "surah": 22,
+          "ayah": 62
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "arabic": "ٱلْحَفِيظُ",
+      "transliteration": "Al-Hafiz",
+      "english": "The Preserver",
+      "roman_urdu": "Hifazat karne wala",
+      "explanation": "The One who guards and preserves all things.",
+      "quran_refs": [
+        {
+          "surah": 11,
+          "ayah": 57
+        },
+        {
+          "surah": 34,
+          "ayah": 21
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "arabic": "ٱلْمُقِيتُ",
+      "transliteration": "Al-Muqit",
+      "english": "The Sustainer",
+      "roman_urdu": "Ghiza aur taqat dene wala",
+      "explanation": "The One who sustains all creatures and has power over all things.",
+      "quran_refs": [
+        {
+          "surah": 4,
+          "ayah": 85
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "arabic": "ٱلْحَسِيبُ",
+      "transliteration": "Al-Hasib",
+      "english": "The Reckoner",
+      "roman_urdu": "Hisab lene wala",
+      "explanation": "The One who takes account of all deeds and suffices His servants.",
+      "quran_refs": [
+        {
+          "surah": 4,
+          "ayah": 6
+        },
+        {
+          "surah": 4,
+          "ayah": 86
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "arabic": "ٱلْجَلِيلُ",
+      "transliteration": "Al-Jalil",
+      "english": "The Majestic",
+      "roman_urdu": "Jalal wala, azeem shaan wala",
+      "explanation": "The One who possesses majesty and grandeur.",
+      "quran_refs": []
+    },
+    {
+      "number": 42,
+      "arabic": "ٱلْكَرِيمُ",
+      "transliteration": "Al-Karim",
+      "english": "The Most Generous",
+      "roman_urdu": "Bohat sakhi, izzat wala",
+      "explanation": "The One who is generous and noble, giving beyond expectation.",
+      "quran_refs": [
+        {
+          "surah": 82,
+          "ayah": 6
+        },
+        {
+          "surah": 27,
+          "ayah": 40
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "arabic": "ٱلرَّقِيبُ",
+      "transliteration": "Ar-Raqib",
+      "english": "The Watchful",
+      "roman_urdu": "Nigehbaani karne wala",
+      "explanation": "The One who observes all things and is ever watchful over them.",
+      "quran_refs": [
+        {
+          "surah": 4,
+          "ayah": 1
+        },
+        {
+          "surah": 33,
+          "ayah": 52
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "arabic": "ٱلْمُجِيبُ",
+      "transliteration": "Al-Mujib",
+      "english": "The Responsive",
+      "roman_urdu": "Dua qabool karne wala",
+      "explanation": "The One who responds to those who call upon Him.",
+      "quran_refs": [
+        {
+          "surah": 11,
+          "ayah": 61
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "arabic": "ٱلْوَاسِعُ",
+      "transliteration": "Al-Wasi'",
+      "english": "The All-Encompassing",
+      "roman_urdu": "Bohat wasee, kushada",
+      "explanation": "The One whose knowledge, mercy and power are vast and encompass everything.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 115
+        },
+        {
+          "surah": 2,
+          "ayah": 247
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "arabic": "ٱلْحَكِيمُ",
+      "transliteration": "Al-Hakim",
+      "english": "The All-Wise",
+      "roman_urdu": "Kamil hikmat wala",
+      "explanation": "The One whose wisdom is perfect in all that He decrees and does.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 32
+        },
+        {
+          "surah": 2,
+          "ayah": 129
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "arabic": "ٱلْوَدُودُ",
+      "transliteration": "Al-Wadud",
+      "english": "The Most Loving",
+      "roman_urdu": "Bohat mohabbat karne wala",
+      "explanation": "The One who loves His righteous servants and is full of affection towards them.",
+      "quran_refs": [
+        {
+          "surah": 11,
+          "ayah": 90
+        },
+        {
+          "surah": 85,
+          "ayah": 14
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "arabic": "ٱلْمَجِيدُ",
+      "transliteration": "Al-Majid",
+      "english": "The Glorious",
+      "roman_urdu": "Buzurgi wala",
+      "explanation": "The One who is glorious and noble in His essence and attributes.",
+      "quran_refs": [
+        {
+          "surah": 11,
+          "ayah": 73
+        },
+        {
+          "surah": 85,
+          "ayah": 15
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "arabic": "ٱلْبَاعِثُ",
+      "transliteration": "Al-Ba'ith",
+      "english": "The Resurrector",
+      "roman_urdu": "Dobara zinda uthane wala",
+      "explanation": "The One who raises the dead and sends messengers.",
+      "quran_refs": []
+    },
+    {
+      "number": 50,
+      "arabic": "ٱلشَّهِيدُ",
+      "transliteration": "Ash-Shahid",
+      "english": "The Witness",
+      "roman_urdu": "Har cheez ka gawah",
+      "explanation": "The One who witnesses everything and from whom nothing is hidden.",
+      "quran_refs": [
+        {
+          "surah": 5,
+          "ayah": 117
+        },
+        {
+          "surah": 22,
+          "ayah": 17
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "arabic": "ٱلْحَقُّ",
+      "transliteration": "Al-Haqq",
+      "english": "The Truth",
+      "roman_urdu": "Sacha, haqeeqat",
+      "explanation": "The One who truly exists and whose being and word are the truth.",
+      "quran_refs": [
+        {
+          "surah": 22,
+          "ayah": 6
+        },
+        {
+          "surah": 31,
+          "ayah": 30
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "arabic": "ٱلْوَكِيلُ",
+      "transliteration": "Al-Wakil",
+      "english": "The Trustee",
+      "roman_urdu": "Bharose ke laaiq kaarsaaz",
+      "explanation": "The One in whom trust is placed and who manages the affairs of all.",
+      "quran_refs": [
+        {
+          "surah": 4,
+          "ayah": 81
+        },
+        {
+          "surah": 28,
+          "ayah": 28
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "arabic": "ٱلْقَوِيُّ",
+      "transliteration": "Al-Qawiyy",
+      "english": "The Most Strong",
+      "roman_urdu": "Bohat taqatwar",
+      "explanation": "The One who possesses perfect strength.",
+      "quran_refs": [
+        {
+          "surah": 22,
+          "ayah": 40
+        },
+        {
+          "surah": 22,
+          "ayah": 74
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "arabic": "ٱلْمَتِينُ",
+      "transliteration": "Al-Matin",
+      "english": "The Firm",
+      "roman_urdu": "Mazboot aur mustahkam",
+      "explanation": "The One whose power is firm and unshakeable.",
+      "quran_refs": [
+        {
+          "surah": 51,
+          "ayah": 58
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "arabic": "ٱلْوَلِيُّ",
+      "transliteration": "Al-Waliyy",
+      "english": "The Protecting Friend",
+      "roman_urdu": "Dost aur madadgaar",
+      "explanation": "The One who is the protector and supporter of the believers.",
+      "quran_refs": [
+        {
+          "surah": 42,
+          "ayah": 9
+        },
+        {
+          "surah": 2,
+          "ayah": 257
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "arabic": "ٱلْحَمِيدُ",
+      "transliteration": "Al-Hamid",
+      "english": "The Praiseworthy",
+      "roman_urdu": "Tareef ke laaiq",
+      "explanation": "The One who is worthy of all praise.",
+      "quran_refs": [
+        {
+          "surah": 14,
+          "ayah": 1
+        },
+        {
+          "surah": 31,
+          "ayah": 26
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "arabic": "ٱلْمُحْصِي",
+      "transliteration": "Al-Muhsi",
+      "english": "The Counter",
+      "roman_urdu": "Sab ka hisab rakhne wala",
+      "explanation": "The One who counts and records everything exactly.",
+      "quran_refs": []
+    },
+    {
+      "number": 58,
+      "arabic": "ٱلْمُبْدِئُ",
+      "transliteration": "Al-Mubdi'",
+      "english": "The Originator",
+      "roman_urdu": "Pehli baar paida karne wala",
+      "explanation": "The One who begins creation without any previous model.",
+      "quran_refs": []
+    },
+    {
+      "number": 59,
+      "arabic": "ٱلْمُعِيدُ",
+      "transliteration": "Al-Mu'id",
+      "english": "The Restorer",
+      "roman_urdu": "Dobara lautane wala",
+      "explanation": "The One who brings creatures back after they have perished.",
+      "quran_refs": []
+    },
+    {
+      "number": 60,
+      "arabic": "ٱلْمُحْيِي",
+      "transliteration": "Al-Muhyi",
+      "english": "The Giver of Life",
+      "roman_urdu": "Zindagi dene wala",
+      "explanation": "The One who gives life.",
+      "quran_refs": [
+        {
+          "surah": 41,
+          "ayah": 39
+        },
+        {
+          "surah": 30,
+          "ayah": 50
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "arabic": "ٱلْمُمِيتُ",
+      "transliteration": "Al-Mumit",
+      "english": "The Bringer of Death",
+      "roman_urdu": "Maut dene wala",
+      "explanation": "The One who causes death.",
+      "quran_refs": []
+    },
+    {
+      "number": 62,
+      "arabic": "ٱلْحَيُّ",
+      "transliteration": "Al-Hayy",
+      "english": "The Ever-Living",
+      "roman_urdu": "Hamesha zinda",
+      "explanation": "The One whose life is perfect and never ends.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 255
+        },
+        {
+          "surah": 3,
+          "ayah": 2
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "arabic": "ٱلْقَيُّومُ",
+      "transliteration": "Al-Qayyum",
+      "english": "The Self-Subsisting",
+      "roman_urdu": "Khud qaaim aur sab ko qaaim rakhne wala",
+      "explanation": "The One who exists by Himself and sustains all that exists.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 255
+        },
+        {
+          "surah": 3,
+          "ayah": 2
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "arabic": "ٱلْوَاجِدُ",
+      "transliteration": "Al-Wajid",
+      "english": "The Finder",
+      "roman_urdu": "Sab kuch paane wala, jise kuch kami nahin",
+      "explanation": "The One who lacks nothing and finds whatever He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 65,
+      "arabic": "ٱلْمَاجِدُ",
+      "transliteration": "Al-Majid (Al-Maajid)",
+      "english": "The Noble",
+      "roman_urdu": "Buzurg aur shaan wala",
+      "explanation": "The One who is noble and magnificent.",
+      "quran_refs": []
+    },
+    {
+      "number": 66,
+      "arabic": "ٱلْوَاحِدُ",
+      "transliteration": "Al-Wahid",
+      "english": "The One",
+      "roman_urdu": "Ek, akela",
+      "explanation": "The One who has no partner or equal.",
+      "quran_refs": [
+        {
+          "surah": 13,
+          "ayah": 16
+        },
+        {
+          "surah": 14,
+          "ayah": 48
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "arabic": "ٱلْأَحَدُ",
+      "transliteration": "Al-Ahad",
+      "english": "The Unique",
+      "roman_urdu": "Yakta",
+      "explanation": "The One who is unique, with nothing like Him.",
+      "quran_refs": [
+        {
+          "surah": 112,
+          "ayah": 1
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "arabic": "ٱلصَّمَدُ",
+      "transliteration": "As-Samad",
+      "english": "The Eternal Refuge",
+      "roman_urdu": "Be-niyaaz, sab uske mohtaaj",
+      "explanation": "The One on whom all depend and who depends on none.",
+      "quran_refs": [
+        {
+          "surah": 112,
+          "ayah": 2
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "arabic": "ٱلْقَادِرُ",
+      "transliteration": "Al-Qadir",
+      "english": "The All-Powerful",
+      "roman_urdu": "Har cheez par qudrat rakhne wala",
+      "explanation": "The One who has power over all things.",
+      "quran_refs": [
+        {
+          "surah": 6,
+          "ayah": 65
+        },
+        {
+          "surah": 46,
+          "ayah": 33
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "arabic": "ٱلْمُقْتَدِرُ",
+      "transliteration": "Al-Muqtadir",
+      "english": "The Omnipotent",
+      "roman_urdu": "Poori qudrat wala",
+      "explanation": "The One who has complete and absolute power.",
+      "quran_refs": [
+        {
+          "surah": 54,
+          "ayah": 42
+        },
+        {
+          "surah": 18,
+          "ayah": 45
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "arabic": "ٱلْمُقَدِّمُ",
+      "transliteration": "Al-Muqaddim",
+      "english": "The Bringer Forward",
+      "roman_urdu": "Aage karne wala",
+      "explanation": "The One who advances whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 72,
+      "arabic": "ٱلْمُؤَخِّرُ",
+      "transliteration": "Al-Mu'akhkhir",
+      "english": "The Delayer",
+      "roman_urdu": "Peeche karne wala",
+      "explanation": "The One who puts back whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 73,
+      "arabic": "ٱلْأَوَّلُ",
+      "transliteration": "Al-Awwal",
+      "english": "The First",
+      "roman_urdu": "Sab se pehle",
+      "explanation": "The One before whom there is nothing.",
+      "quran_refs": [
+        {
+          "surah": 57,
+          "ayah": 3
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "arabic": "ٱلْآخِرُ",
+      "transliteration": "Al-Akhir",
+      "english": "The Last",
+      "roman_urdu": "Sab ke baad",
+      "explanation": "The One after whom there is nothing.",
+      "quran_refs": [
+        {
+          "surah": 57,
+          "ayah": 3
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "arabic": "ٱلظَّاهِرُ",
+      "transliteration": "Az-Zahir",
+      "english": "The Manifest",
+      "roman_urdu": "Zaahir",
+      "explanation": "The One above whom there is nothing, and whose signs are evident.",
+      "quran_refs": [
+        {
+          "surah": 57,
+          "ayah": 3
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "arabic": "ٱلْبَاطِنُ",
+      "transliteration": "Al-Batin",
+      "english": "The Hidden",
+      "roman_urdu": "Poshida, nazron se chhupa hua",
+      "explanation": "The One who is nearer than anything yet beyond what eyes can perceive.",
+      "quran_refs": [
+        {
+          "surah": 57,
+          "ayah": 3
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "arabic": "ٱلْوَالِي",
+      "transliteration": "Al-Wali",
+      "english": "The Governor",
+      "roman_urdu": "Kaarsaaz o haakim",
+      "explanation": "The One who governs and manages the affairs of all things.",
+      "quran_refs": []
+    },
+    {
+      "number": 78,
+      "arabic": "ٱلْمُتَعَالِ",
+      "transliteration": "Al-Muta'ali",
+      "english": "The Most Exalted",
+      "roman_urdu": "Bohat buland o bartar",
+      "explanation": "The One who is exalted far above all that His creation can attribute to Him.",
+      "quran_refs": [
+        {
+          "surah": 13,
+          "ayah": 9
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "arabic": "ٱلْبَرُّ",
+      "transliteration": "Al-Barr",
+      "english": "The Source of Goodness",
+      "roman_urdu": "Bohat nek-sulook karne wala",
+      "explanation": "The One who is kind and good to His creation.",
+      "quran_refs": [
+        {
+          "surah": 52,
+          "ayah": 28
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "arabic": "ٱلتَّوَّابُ",
+      "transliteration": "At-Tawwab",
+      "english": "The Accepter of Repentance",
+      "roman_urdu": "Tauba qabool karne wala",
+      "explanation": "The One who accepts repentance again and again.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 37
+        },
+        {
+          "surah": 2,
+          "ayah": 54
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "arabic": "ٱلْمُنْتَقِمُ",
+      "transliteration": "Al-Muntaqim",
+      "english": "The Avenger",
+      "roman_urdu": "Badla lene wala",
+      "explanation": "The One who justly punishes wrongdoers.",
+      "quran_refs": []
+    },
+    {
+      "number": 82,
+      "arabic": "ٱلْعَفُوُّ",
+      "transliteration": "Al-'Afuww",
+      "english": "The Pardoner",
+      "roman_urdu": "Maaf karne wala",
+      "explanation": "The One who pardons and wipes away sins.",
+      "quran_refs": [
+        {
+          "surah": 4,
+          "ayah": 43
+        },
+        {
+          "surah": 4,
+          "ayah": 99
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "arabic": "ٱلرَّؤُوفُ",
+      "transliteration": "Ar-Ra'uf",
+      "english": "The Most Kind",
+      "roman_urdu": "Bohat shafeeq",
+      "explanation": "The One who is full of tenderness and compassion.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 143
+        },
+        {
+          "surah": 3,
+          "ayah": 30
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "arabic": "مَالِكُ ٱلْمُلْكِ",
+      "transliteration": "Malik-ul-Mulk",
+      "english": "Owner of All Sovereignty",
+      "roman_urdu": "Saari badshahi ka malik",
+      "explanation": "The One who owns all dominion and gives it to whom He wills.",
+      "quran_refs": [
+        {
+          "surah": 3,
+          "ayah": 26
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "arabic": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+      "transliteration": "Dhul-Jalali wal-Ikram",
+      "english": "Lord of Majesty and Generosity",
+      "roman_urdu": "Azmat aur ikraam wala",
+      "explanation": "The One who possesses majesty and bestows honour.",
+      "quran_refs": [
+        {
+          "surah": 55,
+          "ayah": 27
+        },
+        {
+          "surah": 55,
+          "ayah": 78
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "arabic": "ٱلْمُقْسِطُ",
+      "transliteration": "Al-Muqsit",
+      "english": "The Equitable",
+      "roman_urdu": "Insaaf karne wala",
+      "explanation": "The One who acts with justice and fairness.",
+      "quran_refs": []
+    },
+    {
+      "number": 87,
+      "arabic": "ٱلْجَامِعُ",
+      "transliteration": "Al-Jami'",
+      "english": "The Gatherer",
+      "roman_urdu": "Sab ko jama karne wala",
+      "explanation": "The One who will gather all people for the Day of Judgement.",
+      "quran_refs": [
+        {
+          "surah": 3,
+          "ayah": 9
+        },
+        {
+          "surah": 4,
+          "ayah": 140
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "arabic": "ٱلْغَنِيُّ",
+      "transliteration": "Al-Ghaniyy",
+      "english": "The Self-Sufficient",
+      "roman_urdu": "Be-niyaaz, kisi ka mohtaaj nahin",
+      "explanation": "The One who is free of all need while all creation needs Him.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 263
+        },
+        {
+          "surah": 2,
+          "ayah": 267
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "arabic": "ٱلْمُغْنِي",
+      "transliteration": "Al-Mughni",
+      "english": "The Enricher",
+      "roman_urdu": "Be-niyaaz karne wala",
+      "explanation": "The One who enriches whom He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 90,
+      "arabic": "ٱلْمَانِعُ",
+      "transliteration": "Al-Mani'",
+      "english": "The Preventer",
+      "roman_urdu": "Rok dene wala",
+      "explanation": "The One who withholds or prevents as He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 91,
+      "arabic": "ٱلضَّارُّ",
+      "transliteration": "Ad-Darr",
+      "english": "The Distresser",
+      "roman_urdu": "Nuqsaan pahunchane wala",
+      "explanation": "The One who decrees harm as He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 92,
+      "arabic": "ٱلنَّافِعُ",
+      "transliteration": "An-Nafi'",
+      "english": "The Benefactor",
+      "roman_urdu": "Fayda pahunchane wala",
+      "explanation": "The One who decrees benefit as He wills.",
+      "quran_refs": []
+    },
+    {
+      "number": 93,
+      "arabic": "ٱلنُّورُ",
+      "transliteration": "An-Nur",
+      "english": "The Light",
+      "roman_urdu": "Roshni, noor",
+      "explanation": "The One who is the light of the heavens and the earth.",
+      "quran_refs": [
+        {
+          "surah": 24,
+          "ayah": 35
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "arabic": "ٱلْهَادِي",
+      "transliteration": "Al-Hadi",
+      "english": "The Guide",
+      "roman_urdu": "Raah dikhane wala",
+      "explanation": "The One who guides whom He wills to the straight path.",
+      "quran_refs": [
+        {
+          "surah": 25,
+          "ayah": 31
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "arabic": "ٱلْبَدِيعُ",
+      "transliteration": "Al-Badi'",
+      "english": "The Incomparable Originator",
+      "roman_urdu": "Bina misaal paida karne wala",
+      "explanation": "The One who originated the heavens and the earth without any prior model.",
+      "quran_refs": [
+        {
+          "surah": 2,
+          "ayah": 117
+        },
+        {
+          "surah": 6,
+          "ayah": 101
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "arabic": "ٱلْبَاقِي",
+      "transliteration": "Al-Baqi",
+      "english": "The Everlasting",
+      "roman_urdu": "Hamesha rehne wala",
+      "explanation": "The One who remains forever and never perishes.",
+      "quran_refs": []
+    },
+    {
+      "number": 97,
+      "arabic": "ٱلْوَارِثُ",
+      "transliteration": "Al-Warith",
+      "english": "The Inheritor",
+      "roman_urdu": "Sab ka waaris",
+      "explanation": "The One who remains after all creation has passed away.",
+      "quran_refs": []
+    },
+    {
+      "number": 98,
+      "arabic": "ٱلرَّشِيدُ",
+      "transliteration": "Ar-Rashid",
+      "english": "The Guide to the Right Course",
+      "roman_urdu": "Sahi raah par chalane wala",
+      "explanation": "The One whose decrees are perfectly right and who guides to what is right.",
+      "quran_refs": []
+    },
+    {
+      "number": 99,
+      "arabic": "ٱلصَّبُورُ",
+      "transliteration": "As-Sabur",
+      "english": "The Most Patient",
+      "roman_urdu": "Bohat sabr karne wala",
+      "explanation": "The One who is patient and does not hasten to punish.",
+      "quran_refs": []
+    }
+  ]
+}

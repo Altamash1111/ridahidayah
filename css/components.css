@@ -1,0 +1,70 @@
+.btn{display:inline-flex;align-items:center;gap:8px;justify-content:center;min-height:44px;padding:10px 20px;border-radius:999px;border:1px solid var(--accent-strong);background:var(--accent-strong);color:#fff;text-decoration:none;font-weight:500}
+:root[data-theme="night"] .btn{color:var(--accent-ink);background:var(--accent);border-color:var(--accent)}
+.btn:hover{filter:brightness(1.1)}
+.btn.ghost{background:transparent;color:var(--accent-strong)}
+:root[data-theme="night"] .btn.ghost{color:var(--accent);background:transparent}
+.btn.small{min-height:36px;padding:6px 14px;font-size:.9rem}
+.chip{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:4px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-size:.9rem;text-decoration:none;color:var(--text)}
+button.chip[aria-pressed="true"],.chip.on{background:var(--accent-strong);color:#fff;border-color:var(--accent-strong)}
+:root[data-theme="night"] button.chip[aria-pressed="true"]{color:var(--accent-ink);background:var(--accent)}
+.badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:2px 9px;border-radius:999px;background:var(--surface-2);color:var(--accent-strong)}
+.badge.quran{background:#DCE3D0;color:#2F3A2A}.badge.hadith{background:#EADFC4;color:#5A4620}.badge.sahih{background:transparent;border:1px solid var(--olive);color:var(--accent-strong)}
+:root[data-theme="night"] .badge.quran{background:#3C4736;color:#DCE8CC}:root[data-theme="night"] .badge.hadith{background:#4A4126;color:#EADFC4}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow)}
+.tile{display:flex;flex-direction:column;gap:6px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;text-decoration:none;color:var(--text);min-height:108px;transition:transform .15s,border-color .15s}
+.tile:hover{transform:translateY(-2px);border-color:var(--accent)}
+.tile h3{font-size:1.2rem;margin:0;font-family:var(--font-display)}
+.tile p{margin:0;font-size:.88rem;color:var(--text-soft)}
+.tile .count{font-size:.78rem;color:var(--gold);font-weight:700;margin-top:auto}
+.tile .emoji{font-size:1.7rem;line-height:1}
+.dua{display:flex;flex-direction:column;gap:14px;position:relative}
+.dua-head{display:flex;gap:10px;align-items:flex-start;justify-content:space-between}
+.dua-head h3{font-size:1.25rem;margin:4px 0 0}
+.dua-head h3 a{text-decoration:none;color:inherit}.dua-head h3 a:hover{text-decoration:underline}
+.dua .badges{display:flex;gap:6px;flex-wrap:wrap}
+.dua-ar{font-size:var(--fs-ar);color:var(--text);margin:0;padding:10px 0;border-top:1px dashed var(--line);border-bottom:1px dashed var(--line)}
+.dua-tr{font-size:var(--fs-tr);font-style:italic;color:var(--accent-strong);margin:0}
+.dua-en,.dua-ur{font-size:var(--fs-tl);margin:0}
+.dua-ur{color:var(--text-soft)}
+.layer-label{display:block;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);font-weight:700;font-style:normal;margin-bottom:2px}
+.dua-src{font-size:.85rem;color:var(--text-soft);margin:0}
+.dua-actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.icon-btn{display:inline-flex;align-items:center;gap:6px;min-height:40px;padding:6px 14px;border-radius:999px;background:var(--surface);border:1px solid var(--line);font-size:.9rem}
+.icon-btn:hover{border-color:var(--accent)}
+.icon-btn[aria-pressed="true"]{background:var(--accent-strong);color:#fff;border-color:var(--accent-strong)}
+:root[data-theme="night"] .icon-btn[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.icon-btn[disabled],.icon-btn.na{opacity:.55;cursor:not-allowed}
+.copy-row{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:.8rem;color:var(--text-soft)}
+.copy-row button{min-height:30px;padding:2px 10px;border-radius:999px;border:1px solid var(--line);background:transparent;font-size:.8rem}
+.copy-row button:hover{border-color:var(--accent)}
+details.more{border-top:1px solid var(--line);padding-top:10px}
+details.more summary{cursor:pointer;font-weight:500;color:var(--accent-strong)}
+details.more .body{padding-top:8px;font-size:.95rem}
+.note{font-size:.82rem;color:var(--text-soft);background:var(--bg-alt);border-radius:var(--radius-sm);padding:8px 12px;margin:0}
+.callout{border-left:4px solid var(--gold);background:var(--surface);padding:14px 18px;border-radius:0 var(--radius-sm) var(--radius-sm) 0;margin:0 0 1.2rem}
+.callout.care{border-color:var(--olive)}.callout.crisis{border-color:var(--danger);background:color-mix(in srgb,var(--danger) 8%,var(--surface))}
+.callout p:last-child{margin:0}
+.field{width:100%;min-height:48px;padding:10px 16px;border-radius:999px;border:1px solid var(--line);background:var(--surface)}
+.field:focus{border-color:var(--accent)}
+textarea.field{border-radius:14px;min-height:110px}
+.searchbar{display:flex;gap:8px;max-width:640px;margin:0 auto}
+.searchbar .field{flex:1;font-size:1.05rem;padding-left:20px}
+.toast{position:fixed;left:50%;bottom:24px;transform:translate(-50%,40px);opacity:0;background:var(--olive-deep);color:#fff;padding:10px 18px;border-radius:999px;z-index:200;pointer-events:none;transition:.25s;max-width:90vw;text-align:center;font-size:.92rem}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+.modal-back{position:fixed;inset:0;background:rgba(20,24,19,.55);z-index:90;display:flex;justify-content:flex-end}
+.panel{width:min(440px,100%);height:100%;overflow:auto;background:var(--bg);padding:22px;box-shadow:var(--shadow)}
+.panel h2{font-size:1.7rem}
+.panel fieldset{border:1px solid var(--line);border-radius:var(--radius-sm);margin:0 0 16px;padding:12px 14px}
+.panel legend{font-weight:700;font-size:.85rem;padding:0 6px;color:var(--accent-strong)}
+.panel label.opt{display:flex;gap:10px;align-items:center;min-height:40px}
+.panel input[type=range]{width:100%}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.pager{display:flex;justify-content:center;margin-top:24px}
+.empty{text-align:center;padding:40px 16px;border:1px dashed var(--line);border-radius:var(--radius);color:var(--text-soft)}
+.progress{height:8px;border-radius:99px;background:var(--surface-2);overflow:hidden}
+.progress>i{display:block;height:100%;background:var(--accent);transition:width .3s}
+.crumbs{font-size:.88rem;color:var(--text-soft);margin-bottom:12px}
+.crumbs a{color:inherit}
+.dua-head h1{font-size:clamp(1.6rem,4vw,2.1rem);margin:6px 0 0}
+.dua-head h1 a{text-decoration:none;color:inherit}
+@media (max-width:480px){.dua{padding:16px}.dua-ar{font-size:calc(var(--fs-ar)*.9)}}
